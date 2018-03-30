@@ -1,6 +1,6 @@
 # ECE160 - HW#9
 
-Due 03/31/18 at 11:59:59PM.  
+Due 04/07/18 at 11:59:59PM.  
 Late submissions are subject to a 10% late penalty.  
 
 ## Reading
